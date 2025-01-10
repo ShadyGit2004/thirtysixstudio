@@ -1,3 +1,5 @@
+Edited by Rajat
+
 # ThirtySix Studio - Agency Portfolio
 
 ![ThirtySix Studio Banner](./36.png)
